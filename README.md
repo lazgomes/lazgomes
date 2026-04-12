@@ -7,7 +7,8 @@ Atualmente graduando em **Segurança da Informação**, utilizo minha base como 
 <br> 
 <details>
   <summary>EN</summary>
-  <p>I develop solutions focused on automation, data integrity, and offensive security. ⚔️🛡️
+ 
+  <p>I develop solutions focused on <b>automation</b>, <b>data integrity</b>, and <b>offensive security</b>. ⚔️🛡️
 
 Currently pursuing a degree in **Information Security**, I leverage my **Full Stack Developer** background to build resilient systems.</p>
 </details>
