@@ -1,14 +1,14 @@
 
  ## *About Me*
 
-Foco em **automação**, **integridade de dados** e **segurança ofensiva**. ⚔️🛡️
+Foco em **automação**, **integridade de dados** e **segurança ofensiva**. 
 
 Atualmente graduando em **Segurança da Informação**, utilizo minha base como **Dev Full Stack** para construir sistemas resilientes.
 <br> 
 <details>
   <summary>EN</summary>
  
-  <p>Focused on <b>automation</b>, <b>data integrity</b>, and <b>offensive security</b>. ⚔️🛡️
+  <p>Focused on <b>automation</b>, <b>data integrity</b>, and <b>offensive security</b>.
 
 Currently pursuing a degree in **Information Security**, I leverage my **Full Stack Developer** background to build resilient systems.</p>
 </details>
