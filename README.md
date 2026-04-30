@@ -16,7 +16,7 @@ Currently pursuing a degree in **Information Security**, I leverage my **Full St
 
 ## *Tech Stack & Tools*
  ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
- ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=vscode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=white)![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
+ ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=vscode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=white)![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)![Burp Suite](https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge&logo=burpsuite&logoColor=white) 
  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge&logo=burpsuite&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-000?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 <p align="center">
